@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+require 'rodir'
+
+options = {}
+
+opt_parse = OptionParser.new do |opt|
+  opt.banner = 'Usage: rodir'
+end
+
+Rodir::CLI.run

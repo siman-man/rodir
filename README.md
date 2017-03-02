@@ -13,7 +13,7 @@ $ gem install rodir
 run `rodir`
 
 ```
-$ rodir                                                                                                                                                       [master]
+$ rodir
 Ruby@2.4.0 /BasicObject$ ls
 <M>	#<Module:0x007fb11a911388>
 <M>	Kernel

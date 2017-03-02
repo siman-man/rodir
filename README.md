@@ -18,7 +18,7 @@ Ruby@2.4.0 /BasicObject$ ls
 <M>	#<Module:0x007fb11a911388>
 <M>	Kernel
 Ruby@2.4.0 /BasicObject$ cd Kernel
-lRuby@2.4.0 /BasicObject/Kernel$ ls
+Ruby@2.4.0 /BasicObject/Kernel$ ls
 <C>	Object
 Ruby@2.4.0 /BasicObject/Kernel$ cd Object
 Ruby@2.4.0 /BasicObject/Kernel/Object$ pwd
